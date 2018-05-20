@@ -12,6 +12,10 @@
         <servlet-name>TimeTable</servlet-name>
         <servlet-class>controller.TimeTable</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>DeleteStudent</servlet-name>
+        <servlet-class>controller.DeleteStudent</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Checker</servlet-name>
         <url-pattern>/Checker</url-pattern>
@@ -23,6 +27,10 @@
     <servlet-mapping>
         <servlet-name>TimeTable</servlet-name>
         <url-pattern>/TimeTable</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DeleteStudent</servlet-name>
+        <url-pattern>/DeleteStudent</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
