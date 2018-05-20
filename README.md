@@ -1,4 +1,4 @@
-# FeeManager
+# AttendanceManager
 An Attendance Management app for colleges to manage the attendance of their Students.
 
 # Installation
