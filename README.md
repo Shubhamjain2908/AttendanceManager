@@ -1,5 +1,5 @@
 # Attendance Manager
-An Attendance Management app for colleges to manage the attendance of their Students.
+An Attendance Management app for colleges to manage the attendance of their Students And Teacher.
 
 # Installation
  Prerequisites:
